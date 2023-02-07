@@ -1,0 +1,171 @@
+#Construction
+Lock            100 wood
+Sign            300 wood
+Barricade       250 wood
+Cupboard        1000 wood
+Building plan   1 paper
+# Items
+Furnace         200 stone 200 wood 100 animal oil
+Camp Fire       100 wood
+Storage Box     100 Wood
+Bag             30 cloth 100 wood
+Repair Bench    500 wood 100 metal
+
+# Resources
+Animal oil      2 Fat 1 cloth
+Paper           100 wood
+Gun Powder      10 charcoal 10 sulfur
+
+# Attire
+Cloth Shoes     20 Cloth
+Cloth Headwarp  30 Cloth
+Cloth Shirt     30 Cloth
+Cloth pants     30 Cloth
+Hide Shoes      30 Cloth
+Hide Hat        40 Cloth
+Hide Shirt      50 Cloth
+Hide pants      45 Cloth
+
+#Tool
+Hammer          100 wood
+Stone Hatchet   200 wood 100 stone
+Stone Pickaxe   100 wood 200 stone
+Torch           30 wood 1 cloth 20 fuel
+
+# Medical
+
+# Weapon
+Wooden spear    300 wood
+Bow             200 wood 50 cloth
+Fintlock Pistol 200 wood 50 metal
+Bone knife      60 bone 30 cloth
+
+# Ammo
+Arrow           25 Wood 10 Stone
+Shell           5 Stone 5 Gunpowder
+
+
+
+##########NOTES##########
+Distant fog
+Bushes for cover
+Steeper terrain
+Flat beaches
+Sharp mountains
+Less saturated colours
+Dense forest
+##########NODES##########
+#Stone
+500 totalstone
+100 totalmetal
+25 totalsulphur
+1 hq
+#Sulfur
+500 totalstone
+50 totalmetal
+200 totalsulphur
+1 hq
+#Metal
+500 totalstone
+500 totalmetal
+25 totalsulphur
+3 hq
+##########TREES##########
+1000 max big tree
+550 max small tree
+##########Common##########
+Large Furnace
+Large Wood Box
+Leather Gloves
+Machete
+Medical Syringe
+Metal Hori Embrasure
+Metal Vert Embrasure
+Pistol Bullet
+Shelves
+Sword
+Barricade
+Stone spear
+Water bucket
+Wood armor pants
+Wood chestplate
+Wood shutters
+Wood floor spikes
+##########Uncommon##########
+Shotgun bucksot
+Rifle ammo
+Guitar
+Barbed Wood Barricade
+Beancan grenade
+Bed
+Bone armor pants
+Bone jacket
+Boonie hat
+Bucket helmet
+Ceiling light
+Crossbow
+Explosives
+Hatchet
+Hazmat Boots
+Hazmat Gloves
+Hazmat Jacket
+Hazmat Pants
+High External Wood Gate
+High External Wood Wall
+Balaclava
+Jacket
+Lantern
+Large Medkit
+Large Water Catcher
+Large Wood sign
+Metal Barricade
+Miners Hat
+Mining Quarry
+Metal window bars
+revolver
+riot helmet
+salvaged axe
+salvaged hammer
+sandbags
+Small oil refinery
+Snap Trap
+Survey Charge
+Water barrel
+##########Rare##########
+Coffee can helmet
+Concrete barricade
+F1 Grenade
+Flame thrower
+Hazmat helmet
+Land Mine
+Longsword
+Mace
+Pick AXe
+Pump shotgun
+Road sign jacket
+Road sign kilt
+Rocket
+Salveaged cleaver
+salvaged icepick
+Semi pistol
+Semi rifle
+Snow jacket
+Thompson
+##########Extremely Rare##########
+4x Scope
+AK
+Turret
+Bolty
+Custom Smg
+Stone high external wall
+Stone high external gate
+Holosight
+Metal chest plate
+Metal face plate
+Muzzle boost
+Muzzle brake
+Rocket launcher
+Silencer
+C4
+Laser sight
+Flashlight
